@@ -1,4 +1,4 @@
-# Nexis
+# Nexus
 One Intelligence. Infinite Possibilities.
 NEXUS/
 │
